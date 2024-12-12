@@ -323,3 +323,16 @@
 [01:54:22] [Server thread/INFO]: [stevencrazy317: Set own game mode to Survival Mode]
 [01:54:45] [Server thread/INFO]: stevencrazy317 was killed
 [01:54:45] [Server thread/INFO]: [stevencrazy317: Killed stevencrazy317]
+[02:39:55] [Server thread/INFO]: stevencrazy317 lost connection: Disconnected
+[02:39:55] [Server thread/INFO]: stevencrazy317 left the game
+[02:40:14] [Server thread/INFO]: Stopping the server
+[02:40:14] [Server thread/INFO]: Stopping server
+[02:40:14] [Server thread/INFO]: Saving players
+[02:40:14] [Server thread/INFO]: Saving worlds
+[02:40:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:40:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:40:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:40:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:40:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:40:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:40:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
