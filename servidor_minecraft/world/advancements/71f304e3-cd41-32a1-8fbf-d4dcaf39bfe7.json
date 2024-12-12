@@ -716,6 +716,7 @@
     "criteria": {
       "cooked_porkchop": "2024-11-13 03:28:17 +0000",
       "apple": "2024-11-22 01:10:12 +0000",
+      "cooked_chicken": "2024-12-12 00:43:31 +0000",
       "cooked_mutton": "2024-11-13 02:41:51 +0000",
       "cooked_beef": "2024-11-13 02:30:58 +0000"
     },
@@ -809,7 +810,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-11-22 01:30:28 +0000",
       "minecraft:spider": "2024-11-13 02:49:49 +0000",
-      "minecraft:zombie": "2024-11-13 02:34:30 +0000"
+      "minecraft:zombie": "2024-11-13 02:34:30 +0000",
+      "minecraft:creeper": "2024-12-12 00:41:42 +0000"
     },
     "done": false
   },
