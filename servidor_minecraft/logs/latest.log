@@ -167,3 +167,159 @@
 [01:45:27] [Server thread/INFO]: puta was slain by stevencrazy317
 [01:45:27] [Server thread/INFO]: puta lost connection: puta died
 [01:45:27] [Server thread/INFO]: puta left the game
+[01:46:08] [Server thread/INFO]: puta[local] logged in with entity id 11089 at (-492.32247296478914, -24.0, 89.11269033756983)
+[01:46:08] [Server thread/INFO]: puta joined the game
+[01:46:12] [Server thread/INFO]: puta has made the advancement [Hot Stuff]
+[01:46:21] [Server thread/INFO]: [stevencrazy317: Teleported puta to kimbely]
+[01:46:42] [Server thread/INFO]: puta lost connection: Killed
+[01:46:42] [Server thread/INFO]: puta left the game
+[01:46:44] [Server thread/INFO]: [Not Secure] <stevencrazy317> te las dio?
+[01:46:53] [Server thread/INFO]: [Not Secure] <kimbely> ti
+[01:47:00] [Server thread/INFO]: [Not Secure] <stevencrazy317> 2 va?
+[01:47:01] [Server thread/INFO]: [Not Secure] <kimbely> te devuelvo las cubetas
+[01:47:04] [Server thread/INFO]: [Not Secure] <kimbely> pa tener
+[01:47:10] [Server thread/INFO]: [Not Secure] <kimbely> lo llamo
+[01:47:11] [Server thread/INFO]: [Not Secure] <stevencrazy317> va perame
+[01:47:25] [Server thread/INFO]: [Not Secure] <stevencrazy317> comida tambien
+[01:47:45] [Server thread/INFO]: puta[local] logged in with entity id 11595 at (-503.29649554564133, 78.5625, -155.15085106384495)
+[01:47:45] [Server thread/INFO]: puta joined the game
+[01:48:11] [Server thread/INFO]: [Not Secure] <kimbely> puta me robo mi cubeta
+[01:48:15] [Server thread/INFO]: [Not Secure] <kimbely> jajajaj la de lava
+[01:48:17] [Server thread/INFO]: [Not Secure] <stevencrazy317> llena?
+[01:48:21] [Server thread/INFO]: [Not Secure] <kimbely> chi
+[01:48:25] [Server thread/INFO]: [Not Secure] <kimbely> no importa
+[01:48:32] [Server thread/INFO]: [Not Secure] <stevencrazy317> ya?
+[01:48:34] [Server thread/INFO]: [Not Secure] <kimbely> ya
+[01:48:52] [Server thread/INFO]: [Not Secure] <kimbely> no te lo lleves
+[01:48:53] [Server thread/INFO]: [Not Secure] <kimbely> pera
+[01:48:56] [Server thread/INFO]: [Not Secure] <stevencrazy317> vava
+[01:49:13] [Server thread/INFO]: [Not Secure] <kimbely> ya
+[01:49:17] [Server thread/INFO]: [Not Secure] <kimbely> nooo
+[01:49:24] [Server thread/INFO]: [Not Secure] <stevencrazy317> me avisas
+[01:49:36] [Server thread/INFO]: [Not Secure] <kimbely> ya
+[01:49:38] [Server thread/INFO]: [stevencrazy317: Current Carpet Mod settings:]
+[01:49:38] [Server thread/INFO]: [stevencrazy317: - accurateBlockPlacement [true] [false]]
+[01:49:38] [Server thread/INFO]: [stevencrazy317: - antiCheatDisabled [true] [false]]
+[01:49:38] [Server thread/INFO]: [stevencrazy317: - carpetCommandPermissionLevel [ops] [2] [4]]
+[01:49:38] [Server thread/INFO]: [stevencrazy317: - commandPlayer [true] [false] [ops] [0] [1] [2] [3] [4]]
+[01:49:38] [Server thread/INFO]: [stevencrazy317: - commandSpawn [true] [false] [ops] [0] [1] [2] [3] [4]]
+[01:49:38] [Server thread/INFO]: [stevencrazy317: - creativeNoClip [true] [false]]
+[01:49:38] [Server thread/INFO]: [stevencrazy317: - ctrlQCraftingFix [true] [false]]
+[01:49:38] [Server thread/INFO]: [stevencrazy317: - flippinCactus [true] [false]]
+[01:49:38] [Server thread/INFO]: [stevencrazy317: - optimizedTNT [true] [false]]
+[01:49:38] [Server thread/INFO]: [stevencrazy317: - stackableShulkerBoxes [false] [true] [16]]
+[01:49:38] [Server thread/INFO]: [stevencrazy317: Carpet Mod version: 1.4.158+v241022]
+[01:49:38] [Server thread/INFO]: [stevencrazy317: Browse categories:
+[dispenser] [feature] [optimization] [scarpet] [survival] [extras] [client] [experimental] [TNT] [bugfix] [creative] [command]]
+[01:49:48] [Server thread/INFO]: [stevencrazy317: Carpet Mod settings matching "survival" :]
+[01:49:48] [Server thread/INFO]: [stevencrazy317: - accurateBlockPlacement [true] [false]]
+[01:49:48] [Server thread/INFO]: [stevencrazy317: - antiCheatDisabled [true] [false]]
+[01:49:48] [Server thread/INFO]: [stevencrazy317: - betterBonemeal [true] [false]]
+[01:49:48] [Server thread/INFO]: [stevencrazy317: - blazeMeal [true] [false]]
+[01:49:48] [Server thread/INFO]: [stevencrazy317: - carpets [true] [false]]
+[01:49:48] [Server thread/INFO]: [stevencrazy317: - cleanLogs [true] [false]]
+[01:49:48] [Server thread/INFO]: [stevencrazy317: - ctrlQCraftingFix [true] [false]]
+[01:49:48] [Server thread/INFO]: [stevencrazy317: - defaultLoggers [none] [tps] [mobcaps,tps]]
+[01:49:48] [Server thread/INFO]: [stevencrazy317: - flippinCactus [true] [false]]
+[01:49:48] [Server thread/INFO]: [stevencrazy317: - missingTools [true] [false]]
+[01:49:48] [Server thread/INFO]: [stevencrazy317: - persistentParrots [true] [false]]
+[01:49:48] [Server thread/INFO]: [stevencrazy317: - smoothClientAnimations [true] [false]]
+[01:49:48] [Server thread/INFO]: [stevencrazy317: - stackableShulkerBoxes [false] [true] [16]]
+[01:49:48] [Server thread/INFO]: [stevencrazy317: - thickFungusGrowth [false] [random] [all]]
+[01:49:48] [Server thread/INFO]: [stevencrazy317: - xpFromExplosions [true] [false]]
+[01:50:01] [Server thread/INFO]: [stevencrazy317: Carpet Mod settings matching "command" :]
+[01:50:01] [Server thread/INFO]: [stevencrazy317: - allowListingFakePlayers [true] [false]]
+[01:50:01] [Server thread/INFO]: [stevencrazy317: - allowSpawningOfflinePlayers [true] [false]]
+[01:50:01] [Server thread/INFO]: [stevencrazy317: - carpetCommandPermissionLevel [ops] [2] [4]]
+[01:50:01] [Server thread/INFO]: [stevencrazy317: - commandDistance [true] [false] [ops] [0] [1] [2] [3] [4]]
+[01:50:01] [Server thread/INFO]: [stevencrazy317: - commandDraw [true] [false] [ops] [0] [1] [2] [3] [4]]
+[01:50:01] [Server thread/INFO]: [stevencrazy317: - commandInfo [true] [false] [ops] [0] [1] [2] [3] [4]]
+[01:50:01] [Server thread/INFO]: [stevencrazy317: - commandLog [true] [false] [ops] [0] [1] [2] [3] [4]]
+[01:50:01] [Server thread/INFO]: [stevencrazy317: - commandPerimeterInfo [true] [false] [ops] [0] [1] [2] [3] [4]]
+[01:50:01] [Server thread/INFO]: [stevencrazy317: - commandPing [true] [false]]
+[01:50:01] [Server thread/INFO]: [stevencrazy317: - commandPlayer [true] [false] [ops] [0] [1] [2] [3] [4]]
+[01:50:01] [Server thread/INFO]: [stevencrazy317: - commandProfile [true] [false] [ops] [0] [1] [2] [3] [4]]
+[01:50:01] [Server thread/INFO]: [stevencrazy317: - commandScript [true] [false] [ops] [0] [1] [2] [3] [4]]
+[01:50:01] [Server thread/INFO]: [stevencrazy317: - commandScriptACE [ops] [0] [1] [2] [3] [4]]
+[01:50:01] [Server thread/INFO]: [stevencrazy317: - commandSpawn [true] [false] [ops] [0] [1] [2] [3] [4]]
+[01:50:01] [Server thread/INFO]: [stevencrazy317: - commandTick [true] [false] [ops] [0] [1] [2] [3] [4]]
+[01:50:01] [Server thread/INFO]: [stevencrazy317: - commandTrackAI [true] [false] [ops] [0] [1] [2] [3] [4]]
+[01:50:01] [Server thread/INFO]: [stevencrazy317: - hopperCounters [true] [false]]
+[01:50:01] [Server thread/INFO]: [stevencrazy317: - perfPermissionLevel [2] [4]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: Carpet Mod settings matching "feature" :]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - betterBonemeal [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - blazeMeal [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - chainStone [true] [false] [stick_to_all]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - chickenShearing [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - clericsFarmWarts [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - comparatorBetterItemFrames [vanilla] [behind] [lenient] [extended]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - comparatorReadsClock [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - creativePlayersLoadChunks [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - creeperSpawningInJungleTemples [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - desertShrubs [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - dispensersCarvePumpkins [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - dispensersFeedAnimals [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - dispensersFillMinecarts [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - dispensersMilkAnimals [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - dispensersPlaceBoatsOnIce [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - dispensersPotPlants [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - dispensersStripBlocks [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - dispensersTillSoil [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - dispensersToggleThings [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - dispensersUseCauldrons [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - emptyShulkerBoxStackAlways [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - enderPearlChunkLoading [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - fallingBlockDispensers [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - flippinCactus [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - flowerPotChunkLoading [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - hopperCounters [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - hopperMinecartItemTransfer [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - huskSpawningInTemples [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - language [en_us] [fr_fr] [pt_br] [zh_cn] [zh_tw]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - maxSpongeRange [7]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - maxSpongeSuck [64]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - mobInFireConvertsSandToSoulsand [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - movableAmethyst [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - movableBlockEntities [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - persistentParrots [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - piglinsSpawningInBastions [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - pistonRedirectsRedstone [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - renewableBlackstone [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - renewableCoral [false] [expanded] [true]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - renewableDeepslate [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - renewableIce [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - renewableSand [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - renewableSponges [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - renewableWitherSkeletons [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - rotatorBlock [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - scaffoldingDistance [2] [3] [5] [7]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - shulkerSpawningInEndCities [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - silverFishDropGravel [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - spiderJockeysDropGapples [0] [50] [100]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - stackableShulkerBoxes [false] [true] [16]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - straySpawningInIgloos [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - thickFungusGrowth [false] [random] [all]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - tickSyncedWorldBorders [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - variableWoodDelays [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - xpFromExplosions [true] [false]]
+[01:50:20] [Server thread/INFO]: [stevencrazy317: - xpPerSculkCatalyst [5] [10] [20]]
+[01:50:34] [Server thread/INFO]: [Not Secure] <stevencrazy317> ya?
+[01:50:38] [Server thread/INFO]: [Not Secure] <kimbely> YA
+[01:50:53] [Server thread/INFO]: [stevencrazy317: Teleported puta to stevencrazy317]
+[01:50:56] [Server thread/INFO]: [Not Secure] <kimbely> ya me voy
+[01:51:01] [Server thread/INFO]: [Not Secure] <stevencrazy317> :(
+[01:51:02] [Server thread/INFO]: [Not Secure] <kimbely> a comerr
+[01:51:05] [Server thread/INFO]: [Not Secure] <kimbely> xauuu
+[01:51:06] [Server thread/INFO]: [Not Secure] <stevencrazy317> te espero?
+[01:51:11] [Server thread/INFO]: [Not Secure] <kimbely> chi
+[01:51:12] [Server thread/INFO]: [Not Secure] <stevencrazy317> o me llamas
+[01:52:04] [Server thread/INFO]: kimbely lost connection: Disconnected
+[01:52:04] [Server thread/INFO]: kimbely left the game
+[01:52:06] [Server thread/INFO]: [Not Secure] <stevencrazy317> no me mandaste comida
+[01:52:08] [Server thread/INFO]: [Not Secure] <stevencrazy317> :(
+[01:52:32] [Server thread/INFO]: puta was slain by stevencrazy317
+[01:52:32] [Server thread/INFO]: puta lost connection: puta died
+[01:52:32] [Server thread/INFO]: puta left the game
+[01:54:22] [Server thread/INFO]: [stevencrazy317: Set own game mode to Survival Mode]
+[01:54:45] [Server thread/INFO]: stevencrazy317 was killed
+[01:54:45] [Server thread/INFO]: [stevencrazy317: Killed stevencrazy317]
