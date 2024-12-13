@@ -61,3 +61,44 @@
 [00:33:44] [Server thread/INFO]: kimbely left the game
 [00:33:48] [Server thread/INFO]: kimbely[/100.109.196.70:60583] logged in with entity id 3748 at (-969.9142484091209, 66.0, -93.44647123164151)
 [00:33:48] [Server thread/INFO]: kimbely joined the game
+[00:35:33] [Server thread/INFO]: kimbely lost connection: Timed out
+[00:35:33] [Server thread/INFO]: kimbely left the game
+[00:35:33] [Server thread/WARN]: handleDisconnection() called twice
+[00:35:40] [Server thread/INFO]: kimbely[/100.109.196.70:60593] logged in with entity id 4342 at (-1030.6387957081554, 65.84375002384186, -22.347206836053207)
+[00:35:40] [Server thread/INFO]: kimbely joined the game
+[00:36:46] [Server thread/INFO]: [stevencrazy317: Teleported kimbely to stevencrazy317]
+[00:37:54] [Server thread/INFO]: kimbely lost connection: Disconnected
+[00:37:54] [Server thread/INFO]: kimbely left the game
+[00:39:35] [Server thread/INFO]: Locating element minecraft:village_desert took 467 ms
+[00:39:36] [Server thread/INFO]: kimbely[/100.109.196.70:60667] logged in with entity id 5368 at (-1121.7217285081872, 64.0, -38.48323078919875)
+[00:39:36] [Server thread/INFO]: kimbely joined the game
+[00:41:06] [Server thread/INFO]: kimbely lost connection: Timed out
+[00:41:06] [Server thread/INFO]: kimbely left the game
+[00:41:06] [Server thread/WARN]: handleDisconnection() called twice
+[00:41:15] [Server thread/INFO]: kimbely[/100.109.196.70:60677] logged in with entity id 5944 at (-1324.1904921331106, 63.84375002384186, -59.52192238960798)
+[00:41:15] [Server thread/INFO]: kimbely joined the game
+[00:42:15] [Server thread/WARN]: Horse (vehicle of kimbely) moved wrongly! 0.25760221034579445
+[00:42:15] [Server thread/WARN]: Horse (vehicle of kimbely) moved wrongly! 0.7823776354641723
+[00:42:15] [Server thread/WARN]: Horse (vehicle of kimbely) moved wrongly! 0.30771737426448453
+[00:42:15] [Server thread/WARN]: Horse (vehicle of kimbely) moved wrongly! 0.8329810600530436
+[00:42:15] [Server thread/WARN]: Horse (vehicle of kimbely) moved wrongly! 1.357240199811713
+[00:42:15] [Server thread/WARN]: Horse (vehicle of kimbely) moved wrongly! 1.879744569946979
+[00:43:10] [Server thread/INFO]: kimbely lost connection: Timed out
+[00:43:10] [Server thread/INFO]: kimbely left the game
+[00:43:14] [Server thread/INFO]: kimbely[/100.109.196.70:60692] logged in with entity id 6371 at (-1370.6179970471446, 64.0, -20.033474492031733)
+[00:43:14] [Server thread/INFO]: kimbely joined the game
+[00:47:30] [Server thread/INFO]: kimbely lost connection: Disconnected
+[00:47:30] [Server thread/INFO]: kimbely left the game
+[00:47:32] [Server thread/INFO]: stevencrazy317 lost connection: Disconnected
+[00:47:32] [Server thread/INFO]: stevencrazy317 left the game
+[00:47:40] [Server thread/INFO]: Stopping the server
+[00:47:41] [Server thread/INFO]: Stopping server
+[00:47:41] [Server thread/INFO]: Saving players
+[00:47:41] [Server thread/INFO]: Saving worlds
+[00:47:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:47:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:47:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:47:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:47:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:47:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:47:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

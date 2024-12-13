@@ -12,7 +12,9 @@
       "minecraft:ocean": "2024-11-13 02:31:23 +0000",
       "minecraft:deep_ocean": "2024-11-23 01:54:03 +0000",
       "minecraft:river": "2024-11-17 05:58:56 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-13 00:47:05 +0000",
       "minecraft:swamp": "2024-11-13 02:17:22 +0000",
+      "minecraft:savanna": "2024-12-13 00:41:14 +0000",
       "minecraft:plains": "2024-11-13 02:14:51 +0000"
     },
     "done": false
@@ -1982,9 +1984,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-13 00:32:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-12-13 00:26:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-13 00:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-13 00:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-13 00:32:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-13 00:32:07 +0000"
     },
     "done": true
   },
