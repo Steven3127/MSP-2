@@ -1,104 +1,66 @@
-[00:14:03] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
-[00:14:04] [main/INFO]: Loading 6 mods:
+[15:14:40] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
+[15:14:41] [main/INFO]: Loading 6 mods:
 	- carpet 1.4.158+v241022
 	- carpet-extra 1.4.158
 	- fabricloader 0.16.9
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.3
-[00:14:04] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSP-2/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[00:14:04] [main/INFO]: Compatibility level set to JAVA_17
-[00:14:05] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[00:14:15] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:14:18] [main/INFO]: Loaded 1337 recipes
-[00:14:18] [main/INFO]: Loaded 1448 advancements
-[00:14:18] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[00:14:18] [Server thread/INFO]: Loading properties
-[00:14:18] [Server thread/INFO]: Default game type: SURVIVAL
-[00:14:18] [Server thread/INFO]: Generating keypair
-[00:14:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:14:19] [Server thread/INFO]: Using epoll channel type
-[00:14:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:14:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:14:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:14:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:14:19] [Server thread/INFO]: Preparing level "world"
-[00:14:19] [Server thread/INFO]: [CM] Loaded 10 settings from carpet.conf
-[00:14:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:14:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:14:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:14:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:14:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:14:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:14:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:14:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:14:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:14:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:14:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:14:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:14:25] [Server thread/INFO]: Time elapsed: 5404 ms
-[00:14:25] [Server thread/INFO]: cs app loaded with /cs command
-[00:14:25] [Server thread/INFO]: App cs loaded in 28 ms
-[00:14:25] [Server thread/INFO]: Done (6.075s)! For help, type "help"
-[00:15:25] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[00:16:54] [Server thread/INFO]: stevencrazy317[/100.99.54.86:57697] logged in with entity id 43 at (-500.6662846487265, 78.0, -155.44973912334424)
-[00:16:54] [Server thread/INFO]: stevencrazy317 joined the game
-[00:16:56] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
-[00:18:05] [Server thread/INFO]: kimbely[/100.109.196.70:60488] logged in with entity id 340 at (-515.7602795768552, 64.0, -197.39279391228078)
-[00:18:05] [Server thread/INFO]: kimbely joined the game
-[00:22:41] [Server thread/INFO]: [stevencrazy317: Teleported kimbely to stevencrazy317]
-[00:26:16] [Server thread/INFO]: stevencrazy317 has made the advancement [Best Friends Forever]
-[00:26:52] [Server thread/INFO]: kimbely has made the advancement [Best Friends Forever]
-[00:27:29] [Server thread/WARN]: Horse (vehicle of kimbely) moved wrongly! 0.25062814010800594
-[00:27:29] [Server thread/WARN]: Horse (vehicle of kimbely) moved wrongly! 0.6386538947224949
-[00:27:30] [Server thread/WARN]: Horse (vehicle of kimbely) moved wrongly! 0.4622074312042628
-[00:27:30] [Server thread/WARN]: Horse (vehicle of kimbely) moved wrongly! 0.5002056723968167
-[00:27:30] [Server thread/WARN]: Horse (vehicle of kimbely) moved wrongly! 0.5160246818052201
-[00:27:30] [Server thread/WARN]: Horse (vehicle of kimbely) moved wrongly! 0.5200913225755812
-[00:27:30] [Server thread/WARN]: Horse (vehicle of kimbely) moved wrongly! 0.27829049720793364
-[00:32:45] [Server thread/INFO]: [Not Secure] <stevencrazy317> ./ping
-[00:33:44] [Server thread/INFO]: kimbely lost connection: Disconnected
-[00:33:44] [Server thread/INFO]: kimbely left the game
-[00:33:48] [Server thread/INFO]: kimbely[/100.109.196.70:60583] logged in with entity id 3748 at (-969.9142484091209, 66.0, -93.44647123164151)
-[00:33:48] [Server thread/INFO]: kimbely joined the game
-[00:35:33] [Server thread/INFO]: kimbely lost connection: Timed out
-[00:35:33] [Server thread/INFO]: kimbely left the game
-[00:35:33] [Server thread/WARN]: handleDisconnection() called twice
-[00:35:40] [Server thread/INFO]: kimbely[/100.109.196.70:60593] logged in with entity id 4342 at (-1030.6387957081554, 65.84375002384186, -22.347206836053207)
-[00:35:40] [Server thread/INFO]: kimbely joined the game
-[00:36:46] [Server thread/INFO]: [stevencrazy317: Teleported kimbely to stevencrazy317]
-[00:37:54] [Server thread/INFO]: kimbely lost connection: Disconnected
-[00:37:54] [Server thread/INFO]: kimbely left the game
-[00:39:35] [Server thread/INFO]: Locating element minecraft:village_desert took 467 ms
-[00:39:36] [Server thread/INFO]: kimbely[/100.109.196.70:60667] logged in with entity id 5368 at (-1121.7217285081872, 64.0, -38.48323078919875)
-[00:39:36] [Server thread/INFO]: kimbely joined the game
-[00:41:06] [Server thread/INFO]: kimbely lost connection: Timed out
-[00:41:06] [Server thread/INFO]: kimbely left the game
-[00:41:06] [Server thread/WARN]: handleDisconnection() called twice
-[00:41:15] [Server thread/INFO]: kimbely[/100.109.196.70:60677] logged in with entity id 5944 at (-1324.1904921331106, 63.84375002384186, -59.52192238960798)
-[00:41:15] [Server thread/INFO]: kimbely joined the game
-[00:42:15] [Server thread/WARN]: Horse (vehicle of kimbely) moved wrongly! 0.25760221034579445
-[00:42:15] [Server thread/WARN]: Horse (vehicle of kimbely) moved wrongly! 0.7823776354641723
-[00:42:15] [Server thread/WARN]: Horse (vehicle of kimbely) moved wrongly! 0.30771737426448453
-[00:42:15] [Server thread/WARN]: Horse (vehicle of kimbely) moved wrongly! 0.8329810600530436
-[00:42:15] [Server thread/WARN]: Horse (vehicle of kimbely) moved wrongly! 1.357240199811713
-[00:42:15] [Server thread/WARN]: Horse (vehicle of kimbely) moved wrongly! 1.879744569946979
-[00:43:10] [Server thread/INFO]: kimbely lost connection: Timed out
-[00:43:10] [Server thread/INFO]: kimbely left the game
-[00:43:14] [Server thread/INFO]: kimbely[/100.109.196.70:60692] logged in with entity id 6371 at (-1370.6179970471446, 64.0, -20.033474492031733)
-[00:43:14] [Server thread/INFO]: kimbely joined the game
-[00:47:30] [Server thread/INFO]: kimbely lost connection: Disconnected
-[00:47:30] [Server thread/INFO]: kimbely left the game
-[00:47:32] [Server thread/INFO]: stevencrazy317 lost connection: Disconnected
-[00:47:32] [Server thread/INFO]: stevencrazy317 left the game
-[00:47:40] [Server thread/INFO]: Stopping the server
-[00:47:41] [Server thread/INFO]: Stopping server
-[00:47:41] [Server thread/INFO]: Saving players
-[00:47:41] [Server thread/INFO]: Saving worlds
-[00:47:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:47:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:47:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:47:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:47:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:47:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:47:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:14:41] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSP-2/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[15:14:41] [main/INFO]: Compatibility level set to JAVA_17
+[15:14:42] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[15:14:53] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:14:56] [main/INFO]: Loaded 1337 recipes
+[15:14:56] [main/INFO]: Loaded 1448 advancements
+[15:14:56] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[15:14:56] [Server thread/INFO]: Loading properties
+[15:14:56] [Server thread/INFO]: Default game type: SURVIVAL
+[15:14:56] [Server thread/INFO]: Generating keypair
+[15:14:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:14:57] [Server thread/INFO]: Using epoll channel type
+[15:14:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:14:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:14:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:14:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:14:57] [Server thread/INFO]: Preparing level "world"
+[15:14:57] [Server thread/INFO]: [CM] Loaded 10 settings from carpet.conf
+[15:14:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:15:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:06] [Server thread/INFO]: Time elapsed: 8406 ms
+[15:15:06] [Server thread/INFO]: cs app loaded with /cs command
+[15:15:06] [Server thread/INFO]: App cs loaded in 19 ms
+[15:15:06] [Server thread/INFO]: Done (8.978s)! For help, type "help"
+[15:16:06] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:17:52] [Server thread/INFO]: stevencrazy317[/100.99.54.86:50362] logged in with entity id 2 at (-1392.577094234758, 63.0, -16.43738236203933)
+[15:17:52] [Server thread/INFO]: stevencrazy317 joined the game
+[15:17:54] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
+[15:17:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[15:19:11] [Server thread/INFO]: stevencrazy317 lost connection: Disconnected
+[15:19:11] [Server thread/INFO]: stevencrazy317 left the game
+[15:19:20] [Server thread/INFO]: Stopping the server
+[15:19:20] [Server thread/INFO]: Stopping server
+[15:19:20] [Server thread/INFO]: Saving players
+[15:19:20] [Server thread/INFO]: Saving worlds
+[15:19:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:19:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:19:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:19:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:19:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:19:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:19:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
