@@ -1,338 +1,49 @@
-[00:35:11] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
-[00:35:11] [main/INFO]: Loading 6 mods:
+[00:14:03] [main/INFO]: Loading Minecraft 1.21.3 with Fabric Loader 0.16.9
+[00:14:04] [main/INFO]: Loading 6 mods:
 	- carpet 1.4.158+v241022
 	- carpet-extra 1.4.158
 	- fabricloader 0.16.9
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.3
-[00:35:11] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSP-2/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[00:35:11] [main/INFO]: Compatibility level set to JAVA_17
-[00:35:12] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[00:35:22] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:35:25] [main/INFO]: Loaded 1337 recipes
-[00:35:25] [main/INFO]: Loaded 1448 advancements
-[00:35:25] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[00:35:25] [Server thread/INFO]: Loading properties
-[00:35:25] [Server thread/INFO]: Default game type: SURVIVAL
-[00:35:25] [Server thread/INFO]: Generating keypair
-[00:35:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:35:26] [Server thread/INFO]: Using epoll channel type
-[00:35:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:35:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:35:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:35:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:35:26] [Server thread/INFO]: Preparing level "world"
-[00:35:26] [Server thread/INFO]: [CM] Loaded 10 settings from carpet.conf
-[00:35:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:35:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:35:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:35:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:35:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:35:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:35:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:35:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:35:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:35:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:35:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:35:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:35:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:35:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:35:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:35:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:35:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:35:34] [Worker-Main-1/INFO]: Preparing spawn area: 57%
-[00:35:34] [Server thread/INFO]: Time elapsed: 8055 ms
-[00:35:34] [Server thread/INFO]: cs app loaded with /cs command
-[00:35:34] [Server thread/INFO]: App cs loaded in 29 ms
-[00:35:34] [Server thread/INFO]: Done (8.611s)! For help, type "help"
-[00:36:34] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[00:38:58] [Server thread/INFO]: stevencrazy317[/100.99.54.86:50063] logged in with entity id 12 at (-459.6923961357536, -27.0, 92.90015966988972)
-[00:38:58] [Server thread/INFO]: stevencrazy317 joined the game
-[00:39:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[00:39:03] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
-[00:39:03] [Server thread/INFO]: kimbely[/100.109.196.70:61204] logged in with entity id 186 at (-435.13053583378024, -22.0, 65.30839525530122)
-[00:39:03] [Server thread/INFO]: kimbely joined the game
-[00:39:39] [Server thread/INFO]: stevencrazy317 was slain by Zombie
-[00:39:48] [Server thread/INFO]: [stevencrazy317: Teleported stevencrazy317 to kimbely]
-[00:49:18] [Server thread/INFO]: [stevencrazy317: Teleported kimbely to stevencrazy317]
-[00:57:29] [Server thread/INFO]: [stevencrazy317: Teleported kimbely to stevencrazy317]
-[00:58:31] [Server thread/INFO]: stevencrazy317 has made the advancement [Ice Bucket Challenge]
-[00:59:10] [Server thread/INFO]: kimbely has made the advancement [Ice Bucket Challenge]
-[01:00:05] [Server thread/INFO]: [stevencrazy317: Teleported kimbely to stevencrazy317]
-[01:27:54] [Server thread/INFO]: [Not Secure] <stevencrazy317> valio v** no?
-[01:28:47] [Server thread/INFO]: [Not Secure] <kimbely> ayuda
-[01:28:50] [Server thread/INFO]: [Not Secure] <kimbely> jajajajaja
-[01:28:52] [Server thread/INFO]: [Not Secure] <stevencrazy317> q paso??
-[01:28:59] [Server thread/INFO]: [Not Secure] <kimbely> lo conecte 1 segundo y se apago despues
-[01:29:04] [Server thread/INFO]: [Not Secure] <kimbely> aaaaaaaaaaaaaaaaaaaaaaaaaaaas
-[01:29:07] [Server thread/INFO]: [Not Secure] <stevencrazy317> noms
-[01:29:15] [Server thread/INFO]: [Not Secure] <stevencrazy317> espera q hagarre carga
-[01:29:26] [Server thread/INFO]: [Not Secure] <stevencrazy317> vamos al nether?
-[01:29:33] [Server thread/INFO]: [Not Secure] <kimbely> primero a casa
-[01:29:41] [Server thread/INFO]: [Not Secure] <stevencrazy317> te sigo esponja
-[01:30:04] [Server thread/INFO]: kimbely was killed
-[01:30:04] [Server thread/INFO]: [kimbely: Killed kimbely]
-[01:30:12] [Server thread/INFO]: [Not Secure] <kimbely> sali
-[01:30:13] [Server thread/INFO]: [Not Secure] <stevencrazy317> como q yo te mate
-[01:30:14] [Server thread/INFO]: [Not Secure] <kimbely> a mimir
-[01:30:20] [Server thread/INFO]: [stevencrazy317: Teleported stevencrazy317 to kimbely]
-[01:30:38] [Server thread/INFO]: [Not Secure] <kimbely> a
-[01:30:40] [Server thread/INFO]: [Not Secure] <kimbely> jajaja
-[01:31:18] [Server thread/INFO]: [Not Secure] <kimbely> lava?
-[01:31:28] [Server thread/INFO]: [Not Secure] <stevencrazy317> esteee
-[01:31:38] [Server thread/INFO]: [Not Secure] <stevencrazy317> voy por ella o carbon?
-[01:31:45] [Server thread/INFO]: [Not Secure] <kimbely> lava
-[01:31:48] [Server thread/INFO]: [Not Secure] <stevencrazy317> voy
-[01:32:06] [Server thread/INFO]: [Not Secure] <kimbely> ayuda
-[01:32:10] [Server thread/INFO]: [stevencrazy317: Teleported stevencrazy317 to kimbely]
-[01:32:14] [Server thread/INFO]: [Not Secure] <stevencrazy317> q ´paso?
-[01:32:15] [Server thread/INFO]: [Not Secure] <kimbely> los hombrecitos con ballestas
-[01:32:42] [Server thread/INFO]: stevencrazy317 has made the advancement [Voluntary Exile]
-[01:32:55] [Server thread/INFO]: [Not Secure] <kimbely> muridos
-[01:33:01] [Server thread/INFO]: [Not Secure] <stevencrazy317> es nivel 5 la posion q dejo
-[01:33:08] [Server thread/INFO]: [Not Secure] <kimbely> nmms y de que es
-[01:33:15] [Server thread/INFO]: [Not Secure] <stevencrazy317> es una mausque herramienta q nos servira mas tarde
-[01:33:23] [Server thread/INFO]: [Not Secure] <kimbely> ok
-[01:33:26] [Server thread/INFO]: [Not Secure] <stevencrazy317> es para activar la raid
-[01:33:35] [Server thread/INFO]: [Not Secure] <kimbely> raid pa mi es el insecticida
-[01:33:44] [Server thread/INFO]: [Not Secure] <stevencrazy317> jajajja
-[01:34:30] [Server thread/INFO]: [Not Secure] <kimbely> no carga
-[01:34:31] [Server thread/INFO]: [Not Secure] <kimbely> ayuda
-[01:34:37] [Server thread/INFO]: [Not Secure] <stevencrazy317> conecta y desconecta
-[01:34:39] [Server thread/INFO]: [Not Secure] <kimbely> ya
-[01:34:44] [Server thread/INFO]: [Not Secure] <stevencrazy317> o intentalo encender
-[01:35:44] [Server thread/INFO]: [Not Secure] <kimbely> lava pofavo
-[01:35:49] [Server thread/INFO]: [Not Secure] <kimbely> si podes traer 3
-[01:35:52] [Server thread/INFO]: [Not Secure] <kimbely> mejor
-[01:35:53] [Server thread/INFO]: [Not Secure] <stevencrazy317> estooy en camino
-[01:36:02] [Server thread/INFO]: [Not Secure] <stevencrazy317> 2 te ofezco
-[01:36:10] [Server thread/INFO]: [Not Secure] <kimbely> y la chacha
-[01:36:16] [Server thread/INFO]: [Not Secure] <kimbely> te mando la cubeta
-[01:36:20] [Server thread/INFO]: [Not Secure] <stevencrazy317> va
-[01:36:46] [Server thread/INFO]: [Not Secure] <kimbely> como llamo a la puta
-[01:36:56] [Server thread/INFO]: [Not Secure] <stevencrazy317> como queras
-[01:37:06] [Server thread/INFO]: [Not Secure] <kimbely> no se como era
-[01:37:13] [Server thread/INFO]: [Not Secure] <stevencrazy317> ./player (name que quieras) spawn
-[01:37:21] [Server thread/INFO]: [Not Secure] <kimbely> como se llamaba
-[01:37:23] [Server thread/INFO]: [Not Secure] <kimbely> juan
-[01:37:37] [Server thread/INFO]: [Not Secure] <stevencrazy317> kimberly tambien se puede llamar
-[01:37:41] [Server thread/INFO]: [Not Secure] <kimbely> alex
-[01:37:46] [Server thread/INFO]: [Not Secure] <stevencrazy317> no hay nombre exacto
-[01:38:13] [Server thread/INFO]: puta[local] logged in with entity id 8280 at (-501.34593667084636, 78.0, -157.14097288935255)
-[01:38:13] [Server thread/INFO]: puta joined the game
-[01:38:24] [Server thread/INFO]: [Not Secure] <kimbely> JAJAJAJAAJA
-[01:38:33] [Server thread/INFO]: [Not Secure] <stevencrazy317> noms
-[01:39:29] [Server thread/INFO]: [Not Secure] <kimbely> como te lo mando
-[01:39:42] [Server thread/INFO]: [Not Secure] <kimbely> player puta y que mas
-[01:39:53] [Server thread/INFO]: [Not Secure] <stevencrazy317> ./player puta kill
-[01:40:19] [Server thread/INFO]: [Not Secure] <kimbely> no lo voy a matar
-[01:40:33] [Server thread/INFO]: [Not Secure] <kimbely> te lo quiero mandar, no matar
-[01:40:33] [Server thread/INFO]: [Not Secure] <stevencrazy317> y asi lo spawneo yo
-[01:40:45] [Server thread/INFO]: puta lost connection: Killed
-[01:40:45] [Server thread/INFO]: puta left the game
-[01:40:45] [Server thread/INFO]: [Not Secure] <stevencrazy317> podes usar el tp
-[01:40:54] [Server thread/INFO]: [Not Secure] <kimbely> mis cubetassss
-[01:41:04] [Server thread/INFO]: [Not Secure] <kimbely> puta ladrona
-[01:41:20] [Server thread/INFO]: [Not Secure] <stevencrazy317> por?
-[01:41:21] [Server thread/INFO]: [Not Secure] <kimbely> es de noche
-[01:41:32] [Server thread/INFO]: [Not Secure] <stevencrazy317> dormi
-[01:41:34] [Server thread/INFO]: [Not Secure] <kimbely> ok
-[01:41:35] [Server thread/INFO]: [Not Secure] <stevencrazy317> ya regreso
-[01:41:36] [Server thread/INFO]: stevencrazy317 lost connection: Disconnected
-[01:41:36] [Server thread/INFO]: stevencrazy317 left the game
-[01:42:12] [Server thread/INFO]: stevencrazy317[/100.99.54.86:50446] logged in with entity id 9392 at (-550.1592502263333, 3.0, -25.145615533810336)
-[01:42:12] [Server thread/INFO]: stevencrazy317 joined the game
-[01:42:12] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
-[01:42:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-526, y=64, z=-190} class_2338{x=-524, y=62, z=-192}
-[01:42:17] [Server thread/INFO]: [Not Secure] <stevencrazy317> ya?
-[01:42:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-536, y=64, z=-188} class_2338{x=-536, y=61, z=-189}
-[01:42:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-536, y=64, z=-188} class_2338{x=-536, y=61, z=-189}
-[01:42:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-547, y=64, z=-190} class_2338{x=-547, y=62, z=-190}
-[01:42:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-551, y=64, z=-192} class_2338{x=-551, y=62, z=-192}
-[01:42:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-551, y=65, z=-192} class_2338{x=-551, y=62, z=-192}
-[01:43:06] [Server thread/INFO]: [stevencrazy317: Set own game mode to Survival Mode]
-[01:43:20] [Server thread/INFO]: [Not Secure] <kimbely> nmms estabamos en creativo?
-[01:43:25] [Server thread/INFO]: [Not Secure] <stevencrazy317> no
-[01:43:31] [Server thread/INFO]: [Not Secure] <stevencrazy317> es q el cs se me habia trabado
-[01:43:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-563, y=59, z=-203} class_2338{x=-563, y=58, z=-203}
-[01:43:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-563, y=59, z=-203} class_2338{x=-563, y=58, z=-203}
-[01:43:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-563, y=59, z=-203} class_2338{x=-563, y=58, z=-203}
-[01:43:37] [Server thread/INFO]: [Not Secure] <stevencrazy317> era spectador en lo q estaba
-[01:44:23] [Server thread/INFO]: [Not Secure] <stevencrazy317> cuantas cubetas trae la puta?
-[01:44:29] [Server thread/INFO]: [Not Secure] <kimbely> 2
-[01:44:39] [Server thread/INFO]: puta[local] logged in with entity id 10454 at (-436.715300861724, -24.0, 63.49007617881594)
-[01:44:39] [Server thread/INFO]: puta joined the game
-[01:44:46] [Server thread/INFO]: [Not Secure] <stevencrazy317> tiene mi skin?
-[01:45:27] [Server thread/INFO]: puta was slain by stevencrazy317
-[01:45:27] [Server thread/INFO]: puta lost connection: puta died
-[01:45:27] [Server thread/INFO]: puta left the game
-[01:46:08] [Server thread/INFO]: puta[local] logged in with entity id 11089 at (-492.32247296478914, -24.0, 89.11269033756983)
-[01:46:08] [Server thread/INFO]: puta joined the game
-[01:46:12] [Server thread/INFO]: puta has made the advancement [Hot Stuff]
-[01:46:21] [Server thread/INFO]: [stevencrazy317: Teleported puta to kimbely]
-[01:46:42] [Server thread/INFO]: puta lost connection: Killed
-[01:46:42] [Server thread/INFO]: puta left the game
-[01:46:44] [Server thread/INFO]: [Not Secure] <stevencrazy317> te las dio?
-[01:46:53] [Server thread/INFO]: [Not Secure] <kimbely> ti
-[01:47:00] [Server thread/INFO]: [Not Secure] <stevencrazy317> 2 va?
-[01:47:01] [Server thread/INFO]: [Not Secure] <kimbely> te devuelvo las cubetas
-[01:47:04] [Server thread/INFO]: [Not Secure] <kimbely> pa tener
-[01:47:10] [Server thread/INFO]: [Not Secure] <kimbely> lo llamo
-[01:47:11] [Server thread/INFO]: [Not Secure] <stevencrazy317> va perame
-[01:47:25] [Server thread/INFO]: [Not Secure] <stevencrazy317> comida tambien
-[01:47:45] [Server thread/INFO]: puta[local] logged in with entity id 11595 at (-503.29649554564133, 78.5625, -155.15085106384495)
-[01:47:45] [Server thread/INFO]: puta joined the game
-[01:48:11] [Server thread/INFO]: [Not Secure] <kimbely> puta me robo mi cubeta
-[01:48:15] [Server thread/INFO]: [Not Secure] <kimbely> jajajaj la de lava
-[01:48:17] [Server thread/INFO]: [Not Secure] <stevencrazy317> llena?
-[01:48:21] [Server thread/INFO]: [Not Secure] <kimbely> chi
-[01:48:25] [Server thread/INFO]: [Not Secure] <kimbely> no importa
-[01:48:32] [Server thread/INFO]: [Not Secure] <stevencrazy317> ya?
-[01:48:34] [Server thread/INFO]: [Not Secure] <kimbely> ya
-[01:48:52] [Server thread/INFO]: [Not Secure] <kimbely> no te lo lleves
-[01:48:53] [Server thread/INFO]: [Not Secure] <kimbely> pera
-[01:48:56] [Server thread/INFO]: [Not Secure] <stevencrazy317> vava
-[01:49:13] [Server thread/INFO]: [Not Secure] <kimbely> ya
-[01:49:17] [Server thread/INFO]: [Not Secure] <kimbely> nooo
-[01:49:24] [Server thread/INFO]: [Not Secure] <stevencrazy317> me avisas
-[01:49:36] [Server thread/INFO]: [Not Secure] <kimbely> ya
-[01:49:38] [Server thread/INFO]: [stevencrazy317: Current Carpet Mod settings:]
-[01:49:38] [Server thread/INFO]: [stevencrazy317: - accurateBlockPlacement [true] [false]]
-[01:49:38] [Server thread/INFO]: [stevencrazy317: - antiCheatDisabled [true] [false]]
-[01:49:38] [Server thread/INFO]: [stevencrazy317: - carpetCommandPermissionLevel [ops] [2] [4]]
-[01:49:38] [Server thread/INFO]: [stevencrazy317: - commandPlayer [true] [false] [ops] [0] [1] [2] [3] [4]]
-[01:49:38] [Server thread/INFO]: [stevencrazy317: - commandSpawn [true] [false] [ops] [0] [1] [2] [3] [4]]
-[01:49:38] [Server thread/INFO]: [stevencrazy317: - creativeNoClip [true] [false]]
-[01:49:38] [Server thread/INFO]: [stevencrazy317: - ctrlQCraftingFix [true] [false]]
-[01:49:38] [Server thread/INFO]: [stevencrazy317: - flippinCactus [true] [false]]
-[01:49:38] [Server thread/INFO]: [stevencrazy317: - optimizedTNT [true] [false]]
-[01:49:38] [Server thread/INFO]: [stevencrazy317: - stackableShulkerBoxes [false] [true] [16]]
-[01:49:38] [Server thread/INFO]: [stevencrazy317: Carpet Mod version: 1.4.158+v241022]
-[01:49:38] [Server thread/INFO]: [stevencrazy317: Browse categories:
-[dispenser] [feature] [optimization] [scarpet] [survival] [extras] [client] [experimental] [TNT] [bugfix] [creative] [command]]
-[01:49:48] [Server thread/INFO]: [stevencrazy317: Carpet Mod settings matching "survival" :]
-[01:49:48] [Server thread/INFO]: [stevencrazy317: - accurateBlockPlacement [true] [false]]
-[01:49:48] [Server thread/INFO]: [stevencrazy317: - antiCheatDisabled [true] [false]]
-[01:49:48] [Server thread/INFO]: [stevencrazy317: - betterBonemeal [true] [false]]
-[01:49:48] [Server thread/INFO]: [stevencrazy317: - blazeMeal [true] [false]]
-[01:49:48] [Server thread/INFO]: [stevencrazy317: - carpets [true] [false]]
-[01:49:48] [Server thread/INFO]: [stevencrazy317: - cleanLogs [true] [false]]
-[01:49:48] [Server thread/INFO]: [stevencrazy317: - ctrlQCraftingFix [true] [false]]
-[01:49:48] [Server thread/INFO]: [stevencrazy317: - defaultLoggers [none] [tps] [mobcaps,tps]]
-[01:49:48] [Server thread/INFO]: [stevencrazy317: - flippinCactus [true] [false]]
-[01:49:48] [Server thread/INFO]: [stevencrazy317: - missingTools [true] [false]]
-[01:49:48] [Server thread/INFO]: [stevencrazy317: - persistentParrots [true] [false]]
-[01:49:48] [Server thread/INFO]: [stevencrazy317: - smoothClientAnimations [true] [false]]
-[01:49:48] [Server thread/INFO]: [stevencrazy317: - stackableShulkerBoxes [false] [true] [16]]
-[01:49:48] [Server thread/INFO]: [stevencrazy317: - thickFungusGrowth [false] [random] [all]]
-[01:49:48] [Server thread/INFO]: [stevencrazy317: - xpFromExplosions [true] [false]]
-[01:50:01] [Server thread/INFO]: [stevencrazy317: Carpet Mod settings matching "command" :]
-[01:50:01] [Server thread/INFO]: [stevencrazy317: - allowListingFakePlayers [true] [false]]
-[01:50:01] [Server thread/INFO]: [stevencrazy317: - allowSpawningOfflinePlayers [true] [false]]
-[01:50:01] [Server thread/INFO]: [stevencrazy317: - carpetCommandPermissionLevel [ops] [2] [4]]
-[01:50:01] [Server thread/INFO]: [stevencrazy317: - commandDistance [true] [false] [ops] [0] [1] [2] [3] [4]]
-[01:50:01] [Server thread/INFO]: [stevencrazy317: - commandDraw [true] [false] [ops] [0] [1] [2] [3] [4]]
-[01:50:01] [Server thread/INFO]: [stevencrazy317: - commandInfo [true] [false] [ops] [0] [1] [2] [3] [4]]
-[01:50:01] [Server thread/INFO]: [stevencrazy317: - commandLog [true] [false] [ops] [0] [1] [2] [3] [4]]
-[01:50:01] [Server thread/INFO]: [stevencrazy317: - commandPerimeterInfo [true] [false] [ops] [0] [1] [2] [3] [4]]
-[01:50:01] [Server thread/INFO]: [stevencrazy317: - commandPing [true] [false]]
-[01:50:01] [Server thread/INFO]: [stevencrazy317: - commandPlayer [true] [false] [ops] [0] [1] [2] [3] [4]]
-[01:50:01] [Server thread/INFO]: [stevencrazy317: - commandProfile [true] [false] [ops] [0] [1] [2] [3] [4]]
-[01:50:01] [Server thread/INFO]: [stevencrazy317: - commandScript [true] [false] [ops] [0] [1] [2] [3] [4]]
-[01:50:01] [Server thread/INFO]: [stevencrazy317: - commandScriptACE [ops] [0] [1] [2] [3] [4]]
-[01:50:01] [Server thread/INFO]: [stevencrazy317: - commandSpawn [true] [false] [ops] [0] [1] [2] [3] [4]]
-[01:50:01] [Server thread/INFO]: [stevencrazy317: - commandTick [true] [false] [ops] [0] [1] [2] [3] [4]]
-[01:50:01] [Server thread/INFO]: [stevencrazy317: - commandTrackAI [true] [false] [ops] [0] [1] [2] [3] [4]]
-[01:50:01] [Server thread/INFO]: [stevencrazy317: - hopperCounters [true] [false]]
-[01:50:01] [Server thread/INFO]: [stevencrazy317: - perfPermissionLevel [2] [4]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: Carpet Mod settings matching "feature" :]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - betterBonemeal [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - blazeMeal [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - chainStone [true] [false] [stick_to_all]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - chickenShearing [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - clericsFarmWarts [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - comparatorBetterItemFrames [vanilla] [behind] [lenient] [extended]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - comparatorReadsClock [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - creativePlayersLoadChunks [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - creeperSpawningInJungleTemples [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - desertShrubs [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - dispensersCarvePumpkins [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - dispensersFeedAnimals [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - dispensersFillMinecarts [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - dispensersMilkAnimals [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - dispensersPlaceBoatsOnIce [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - dispensersPotPlants [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - dispensersStripBlocks [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - dispensersTillSoil [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - dispensersToggleThings [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - dispensersUseCauldrons [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - emptyShulkerBoxStackAlways [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - enderPearlChunkLoading [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - fallingBlockDispensers [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - flippinCactus [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - flowerPotChunkLoading [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - hopperCounters [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - hopperMinecartItemTransfer [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - huskSpawningInTemples [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - language [en_us] [fr_fr] [pt_br] [zh_cn] [zh_tw]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - maxSpongeRange [7]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - maxSpongeSuck [64]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - mobInFireConvertsSandToSoulsand [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - movableAmethyst [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - movableBlockEntities [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - persistentParrots [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - piglinsSpawningInBastions [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - pistonRedirectsRedstone [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - renewableBlackstone [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - renewableCoral [false] [expanded] [true]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - renewableDeepslate [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - renewableIce [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - renewableSand [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - renewableSponges [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - renewableWitherSkeletons [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - rotatorBlock [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - scaffoldingDistance [2] [3] [5] [7]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - shulkerSpawningInEndCities [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - silverFishDropGravel [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - spiderJockeysDropGapples [0] [50] [100]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - stackableShulkerBoxes [false] [true] [16]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - straySpawningInIgloos [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - thickFungusGrowth [false] [random] [all]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - tickSyncedWorldBorders [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - variableWoodDelays [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - xpFromExplosions [true] [false]]
-[01:50:20] [Server thread/INFO]: [stevencrazy317: - xpPerSculkCatalyst [5] [10] [20]]
-[01:50:34] [Server thread/INFO]: [Not Secure] <stevencrazy317> ya?
-[01:50:38] [Server thread/INFO]: [Not Secure] <kimbely> YA
-[01:50:53] [Server thread/INFO]: [stevencrazy317: Teleported puta to stevencrazy317]
-[01:50:56] [Server thread/INFO]: [Not Secure] <kimbely> ya me voy
-[01:51:01] [Server thread/INFO]: [Not Secure] <stevencrazy317> :(
-[01:51:02] [Server thread/INFO]: [Not Secure] <kimbely> a comerr
-[01:51:05] [Server thread/INFO]: [Not Secure] <kimbely> xauuu
-[01:51:06] [Server thread/INFO]: [Not Secure] <stevencrazy317> te espero?
-[01:51:11] [Server thread/INFO]: [Not Secure] <kimbely> chi
-[01:51:12] [Server thread/INFO]: [Not Secure] <stevencrazy317> o me llamas
-[01:52:04] [Server thread/INFO]: kimbely lost connection: Disconnected
-[01:52:04] [Server thread/INFO]: kimbely left the game
-[01:52:06] [Server thread/INFO]: [Not Secure] <stevencrazy317> no me mandaste comida
-[01:52:08] [Server thread/INFO]: [Not Secure] <stevencrazy317> :(
-[01:52:32] [Server thread/INFO]: puta was slain by stevencrazy317
-[01:52:32] [Server thread/INFO]: puta lost connection: puta died
-[01:52:32] [Server thread/INFO]: puta left the game
-[01:54:22] [Server thread/INFO]: [stevencrazy317: Set own game mode to Survival Mode]
-[01:54:45] [Server thread/INFO]: stevencrazy317 was killed
-[01:54:45] [Server thread/INFO]: [stevencrazy317: Killed stevencrazy317]
-[02:39:55] [Server thread/INFO]: stevencrazy317 lost connection: Disconnected
-[02:39:55] [Server thread/INFO]: stevencrazy317 left the game
-[02:40:14] [Server thread/INFO]: Stopping the server
-[02:40:14] [Server thread/INFO]: Stopping server
-[02:40:14] [Server thread/INFO]: Saving players
-[02:40:14] [Server thread/INFO]: Saving worlds
-[02:40:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:40:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:40:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:40:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:40:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:40:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:40:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:14:04] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MSP-2/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[00:14:04] [main/INFO]: Compatibility level set to JAVA_17
+[00:14:05] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[00:14:15] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:14:18] [main/INFO]: Loaded 1337 recipes
+[00:14:18] [main/INFO]: Loaded 1448 advancements
+[00:14:18] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[00:14:18] [Server thread/INFO]: Loading properties
+[00:14:18] [Server thread/INFO]: Default game type: SURVIVAL
+[00:14:18] [Server thread/INFO]: Generating keypair
+[00:14:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:14:19] [Server thread/INFO]: Using epoll channel type
+[00:14:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:14:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:14:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:14:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:14:19] [Server thread/INFO]: Preparing level "world"
+[00:14:19] [Server thread/INFO]: [CM] Loaded 10 settings from carpet.conf
+[00:14:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:14:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:14:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:14:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:14:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:14:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:14:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:14:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:14:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:14:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:14:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:14:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:14:25] [Server thread/INFO]: Time elapsed: 5404 ms
+[00:14:25] [Server thread/INFO]: cs app loaded with /cs command
+[00:14:25] [Server thread/INFO]: App cs loaded in 28 ms
+[00:14:25] [Server thread/INFO]: Done (6.075s)! For help, type "help"
+[00:15:25] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:16:54] [Server thread/INFO]: stevencrazy317[/100.99.54.86:57697] logged in with entity id 43 at (-500.6662846487265, 78.0, -155.44973912334424)
+[00:16:54] [Server thread/INFO]: stevencrazy317 joined the game
+[00:16:56] [Server thread/INFO]: Player stevencrazy317 joined with a matching carpet client
+[00:18:05] [Server thread/INFO]: kimbely[/100.109.196.70:60488] logged in with entity id 340 at (-515.7602795768552, 64.0, -197.39279391228078)
+[00:18:05] [Server thread/INFO]: kimbely joined the game
+[00:22:41] [Server thread/INFO]: [stevencrazy317: Teleported kimbely to stevencrazy317]
